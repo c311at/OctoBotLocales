@@ -1,0 +1,18 @@
+{
+	"start":"Hello, I am %s, a Telegram bot with various features, to know more, click on \"List commands in PM\" button below",
+	"help_button":"List commands in PM",
+	"news_button":"Octeon news channel",
+	"chat_button":"Octeon dev/support chat",
+	"message_delete":"Delete this message",
+	"help_find_more":"You can find more info about command by typing after /help, like this: <pre>/help /cash</pre>",
+	"chat_banned":"Hi. I am sorry, but my admin/me blocked this chat, so I will leave it.\nReason: %s.\nPlease contact bot admin for unbanning this chat",
+	"error_occured":"I am sorry, unknown error occured during working with your request, Admin were notified",
+	"not_enough_arguments":"Not enough arguments supplied.\nPlease refer to documentation: <code>/help %s</code>",
+	"unknown_help_command":"I dont know this command...",
+	"not_available":"Not available",
+	"help_button_into_pm_text":"To prevent flood, use this command in PM",
+	"help_button_into_pm":"List commands in PM",
+	"delete_success":"Message deleted",
+	"delete_failure":"You cant delete this message",
+	"help_format":"%(command)s\nDescription: <i>%(description)s</i>\nAdditional info and examples:\n<i>%(docs)s</i>"
+}
