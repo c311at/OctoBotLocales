@@ -1,4 +1,4 @@
-"start":"Ciao, io sono %s, un bot Telegram con varie funzioni, per saperne di più, clicca sul \"Lista dei comandi in PM\" bottone sotto",
+{"start":"Ciao, io sono %s, un bot Telegram con varie funzioni, per saperne di più, clicca sul \"Lista dei comandi in PM\" bottone sotto",
 	"help_button":"Lista dei comandi in PM",
 	"news_button":"Canale News di Octeon",
 	"chat_button":"Chat di supporto e sviluppo di Octeon",
@@ -14,3 +14,4 @@
 	"delete_success":"Messaggio eliminato",
 	"delete_failure":"Non puoi eliminare questo messaggio",
 "help_format":"%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>"
+}
