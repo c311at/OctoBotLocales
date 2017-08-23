@@ -13,5 +13,7 @@
 	"help_button_into_pm":"Lista dei comandi in PM",
 	"delete_success":"Messaggio eliminato",
 	"delete_failure":"Non puoi eliminare questo messaggio",
-"help_format":"%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>"
+	"help_format":"%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>",
+	"stop_spamming":"Smetti di spammare questo comando...",
+	"chat_ignored":"Questa conversazione sarà ignorata per %s minuti per abuso di comandi"
 }
