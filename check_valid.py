@@ -6,6 +6,8 @@ INVALIDS = 0
 def check_json(path=""):
     global INVALIDS
     path = os.path.normpath(path)
+    if (not path == ".") and path.startswith("."):
+        return
     print(" " * (len(os.path.split(path))-1),"Folder:", path, sep="")
     folders = []
     for item in os.listdir(path):
