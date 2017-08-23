@@ -1,6 +1,10 @@
 import json
 import os
+import sys
+global INVALIDS
+INVALIDS = 0
 def check_json(path=""):
+    global INVALIDS
     path = os.path.normpath(path)
     print(" " * (len(os.path.split(path))-1),"Folder:", path, sep="")
     folders = []
@@ -13,6 +17,7 @@ def check_json(path=""):
                     json.load(f)
             except json.JSONDecodeError as e:
                 print(beautiful_path, "FAIL on %s, %s" % (e.lineno, e.colno))
+                INVALIDS += 1
             else:
                 print(beautiful_path, "is valid")
         elif os.path.isdir(npath):
@@ -22,3 +27,7 @@ def check_json(path=""):
 
 print("Checking json files for validness")
 check_json()
+if INVALIDS:
+    print("Validation FAILED")
+    print("Invalid count:", INVALIDS)
+    sys.exit(INVALIDS)
