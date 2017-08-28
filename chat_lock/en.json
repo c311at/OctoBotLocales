@@ -1,0 +1,11 @@
+{
+	"lock_help":"Locks chat",
+	"locked_success":"Chat locked.",
+	"locked_fail_already":"Chat is already locked",
+	"locked_fail_no_bot_rights":"I am not admin of this chat...",
+	"locked_fail_access_denied":"Hey! You are not admin of this chat!",
+	"locked_fail_private":"Cant lock non-supergroup",
+	"unlock_help":"Unlocks chat",
+	"unlock_success":"Chat unlocked.",
+	"unlock_fail_no_lock":"This chat wasnt locked at all"
+}
