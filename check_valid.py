@@ -15,9 +15,8 @@ def check_locale(path=""):
         if item.endswith(".octeon_locale"):
             beautiful_path = " " * len(os.path.split(npath)) + npath
             try:
-                with open(npath) as f:
-                    reader.read(f)
-            except Exception  as e:
+                reader.read(npath)
+            except Exception as e:
                 print(beautiful_path, "FAIL(%s)" % e)
                 INVALIDS += 1
             else:
