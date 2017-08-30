@@ -36,3 +36,5 @@ You cant delete this message
 Stop spamming this command...
 --- chat_ignored
 This conversation would be ignored for %s minutes because of overusing commands
+--- language_set_ok
+Language set to %s
