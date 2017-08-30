@@ -31,7 +31,7 @@
 --- delete_failure
 Ты не можешь удалить это сообщение
 --- help_format
-"%(command)s\nОписание: <i>%(description)s</i>\nДополнительная информация/Примеры:\n<i>%(docs)s</i>"
+%(command)s\nОписание: <i>%(description)s</i>\nДополнительная информация/Примеры:\n<i>%(docs)s</i>
 --- stop_spamming
 Хватит использовать эту комманду...
 --- chat_ignored

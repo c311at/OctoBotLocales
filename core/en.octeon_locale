@@ -31,7 +31,7 @@ Message deleted
 --- delete_failure
 You cant delete this message
 --- help_format
-"%(command)s\nDescription: <i>%(description)s</i>\nAdditional info and examples:\n<i>%(docs)s</i>",
+%(command)s\nDescription: <i>%(description)s</i>\nAdditional info and examples:\n<i>%(docs)s</i>
 --- stop_spamming
 Stop spamming this command...
 --- chat_ignored
