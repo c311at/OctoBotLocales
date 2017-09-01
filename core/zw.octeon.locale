@@ -31,8 +31,10 @@ Taaaaaaaaaaac, messaggio eliminato
 --- delete_failure
 Weeee belli sti permessi
 --- help_format
-"%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>",
+%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>
 --- stop_spamming
 FATE TROPPO BORDELLO
 --- chat_ignored
 Questa conversazione sarà ignorata per %s minuti per troppo chaos cioè figa
+--- language_set_ok
+Lingua impostaaaac su %s
