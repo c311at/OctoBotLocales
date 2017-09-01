@@ -1,0 +1,20 @@
+--- help
+Esegue il codice su rextester.com(lista dei linguaggi=http://rextester.com/main) taac. Fornisci il linguaggio come primo argomento. Usa /rextester getlangs per una lista dei linguaggi
+--- available_langs
+Lingue disponibili figa:
+<code>%s</code>
+--- not_enough_args
+WE ALOLA GLI ARGOMENTI.
+Usalo così taac figa: <pre>/rextester python3 print("test")</pre>
+--- unknown_lang
+Ma che cazzo dici, non conosco: <pre>%s</pre>
+--- rextester_problems
+Che palle RexTester.com non va. Non mi rompere i coglioni e riprova dopo.
+--- result
+Taac risultato:
+--- warnings
+We figa gli avvertimenti
+--- errors
+Bordello di errori
+--- stats
+Statistiche

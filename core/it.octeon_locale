@@ -31,7 +31,7 @@ Messaggio eliminato
 --- delete_failure
 Non puoi eliminare questo messaggio
 --- help_format
-"%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>",
+%(command)s\nDescrizione: <i>%(description)s</i>\nUlteriori informazioni ed esempi:\n<i>%(docs)s</i>
 --- stop_spamming
 Smetti di spammare questo comando...
 --- chat_ignored
