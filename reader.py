@@ -1,5 +1,5 @@
 """
-octeon_locale reader
+locale reader
 """
 import os.path
 from pprint import pprint

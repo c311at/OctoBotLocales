@@ -3,9 +3,9 @@ Hello, I am %s, a Telegram bot with various features, to know more, click on "Li
 --- help_button 
 List commands in PM
 --- news_button
-Octeon news channel
+OctoBot news channel
 --- chat_button
-Octeon dev/support chat
+OctoBot dev/support chat
 --- message_delete
 Delete this message
 --- help_find_more
