@@ -12,7 +12,7 @@ def check_locale(path=""):
     folders = []
     for item in os.listdir(path):
         npath = os.path.normpath(os.path.join(path, item))
-        if item.endswith(".octeon_locale"):
+        if item.endswith(".locale"):
             beautiful_path = " " * len(os.path.split(npath)) + npath
             try:
                 reader.read(npath)

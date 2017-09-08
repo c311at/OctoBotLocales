@@ -20,5 +20,5 @@ def read(path):
         return readed
 
 if __name__ == '__main__':
-    pprint(read("core/en.octeon_locale"))
-    pprint(read("core/ru.octeon_locale"))
+    pprint(read("core/en.locale"))
+    pprint(read("core/ru.locale"))
