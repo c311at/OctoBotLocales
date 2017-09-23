@@ -1,0 +1,40 @@
+--- start
+Merhaba, ben %s, çeşitli özelliklere sahip bir telgraft botum, daha fazlasını öğrenmek için "Liste komutları" butonuna basınız
+--- help_button 
+Komutları özel mesajda listele
+--- news_button
+OctoBot haber kanalı
+--- chat_button
+OctoBot geliştirme/destek grubu
+--- message_delete
+Bu mesajı sil
+--- help_find_more
+Komut hakkında daha fazla bilgiyi, /help komutunu kullanarak bulabilirsin, kullanımı: <pre>/help /cash</pre>
+--- chat_banned
+Merhaba. Üzgünüm, admin bu sohbeti engelledi, gruptan çıkacağım.
+Reason: %s.
+Bu sohbeti engellemek için lütfen bot yöneticisine başvurun.
+--- error_occured
+Maalesef, isteğinizle çalışırken bilinmeyen bir hata oluştu, Yönetici bilgilendirildi
+--- not_enough_arguments
+Yeterli argüman sağlanmadı.\nLütfen dokümanlara bakın: <code>/help %s</code>
+--- unknown_help_command
+Bu komutu bilmiyorum ...
+--- not_available
+Müsait değil
+--- help_button_into_pm_text
+Flood önlemek için, özel mesajda bu komutu kullanın.
+--- help_button_into_pm
+Komutları özel mesajda listele
+--- delete_success
+Mesaj silindi
+--- delete_failure
+Bu mesajı silemezsin.
+--- help_format
+%(command)s\nAçıklama: <i>%(description)s</i>\nEk bilgi ve örnekler:\n<i>%(docs)s</i>
+--- stop_spamming
+Bu komutula spam göndermeyi bırakın ...
+--- chat_ignored
+Bu görüşme, fazla kullanılan komutlardan dolayı %s dakika boyunca yoksayılacaktı.
+--- language_set_ok
+Dil ayarlandı %s
