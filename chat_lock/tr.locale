@@ -15,4 +15,4 @@ Süpergrubun kilidini aç
 --- unlock_success
 Sohbet kilidi açıldı.
 --- unlock_fail_no_lock
-Bu sohbet hiç kilitlenmedi
+Bu sohbet hiç kilitlenmedi.
