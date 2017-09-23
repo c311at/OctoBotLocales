@@ -1,0 +1,10 @@
+--- help
+Sitenin online olup olmadığını kontrol edin
+--- isup_problems
+Isup.me ile bazı sorunlar var. Bu siteden şu an size bilgi veremem, üzgünüm.
+--- down
+Sadece sen değilsin! % s offline.
+--- up
+Sadece sen. %s online
+--- unknown
+Ne? %s Interwho üzerinde bir site gibi görünmüyor.
