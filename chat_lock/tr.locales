@@ -1,0 +1,18 @@
+--- lock_help
+Grubu kilitle.(tüm mesajlar silinecek, admin mesajları hariç)
+--- locked_success
+Sohbet Kilitlendi.
+--- locked_fail_already
+Sohbet zaten engelli.
+--- locked_fail_no_bot_rights
+Burada Admin değilim.
+--- locked_fail_access_denied
+Hey! Bu grupta admin değilsin.
+--- locked_fail_private
+Yanlızca süpergrupların engelini kaldırabilirsin.
+--- unlock_help
+Süpergrubun kilidini aç
+--- unlock_success
+Sohbet kilidi açıldı.
+--- unlock_fail_no_lock
+Bu sohbet hiç kilitlenmedi
