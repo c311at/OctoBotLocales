@@ -1,0 +1,20 @@
+--- help
+rextester.com da komut çalıştır(diller listesi=http://rextester.com/main). İlk argüman olarak tedarik dili.  /rextester  komutunu kullanarak dilleri listele
+--- available_langs
+Available languages:
+<code>%s</code>
+--- not_enough_args
+Yeterli argüman yok. 
+Usage: <pre>/rextester python3 print("test")</pre>
+--- unknown_lang
+Bilinmeyen dil: <pre>%s</pre>
+--- rextester_problems
+RexTester.com sitesinde bir hata oluştu.Bu isteğinizi yerine getiremiyorum, daha sonra deneyiniz.
+--- result
+Sonuç
+--- warnings
+Uyarılar
+--- errors
+Hatalar
+--- stats
+İstatistik
